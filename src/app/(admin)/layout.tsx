@@ -1,9 +1,8 @@
-import './globals.css'
+import '../globals.css'
 
 
 export const metadata = {
-  title: 'BlogX',
-  description: 'This is the blog app developed by Madan Bazgai',
+  title: 'BlogX-Studio',
 }
 
 export default function RootLayout({

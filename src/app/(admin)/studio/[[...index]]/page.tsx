@@ -10,7 +10,7 @@
  */
 
 import { NextStudio } from 'next-sanity/studio'
-import config from '../../../../sanity.config'
+import config from '../../../../../sanity.config'
 import type {Metadata} from 'next'
 import {metadata as studioMetadata} from 'next-sanity/studio/metadata'
 
