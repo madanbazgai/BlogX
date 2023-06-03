@@ -1,3 +1,4 @@
+'use client'
 
 /**
  * This route is responsible for the built-in authoring environment using Sanity Studio.
