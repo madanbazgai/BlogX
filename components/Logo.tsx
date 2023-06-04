@@ -8,7 +8,7 @@ function Logo(props: any) {
         className="rounded-full object-cover"
         width={50}
         height={50}
-        src="https://links.papareact.com/1m8"
+        src="https://madanbajgai.com.np/madmax.avif"
         alt="Logo"
       />
       {renderDefault && <>{renderDefault(props)}</>}
