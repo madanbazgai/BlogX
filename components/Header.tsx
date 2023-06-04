@@ -18,10 +18,10 @@ function Header() {
       </div>
       <div>
         <Link
-          href="/"
-          className="px-5 py-3 text-sm md:text-base bg-gray-900 text-[#f7ab0a] flex items-center rounded-full text-center "
+          href="/studio"
+          className="px-5 py-3 text-sm md:text-base bg-gray-900 text-[#32d82d] flex items-center rounded-full text-center "
         >
-          Sign Up to the BlogX
+          Admin Studio🖥️🧑‍💻
         </Link>
       </div>
     </header>
